@@ -1,0 +1,6 @@
+﻿  ActiuneBursa.cpp
+C:\Users\I752547\OneDrive - SAP SE\Desktop\test1\test1\ActiuneBursa.cpp(141,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I752547\OneDrive - SAP SE\Desktop\test1\test1\ActiuneBursa.cpp(141,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I752547\OneDrive - SAP SE\Desktop\test1\test1\ActiuneBursa.cpp(145,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\I752547\OneDrive - SAP SE\Desktop\test1\test1\ActiuneBursa.cpp(145,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  test1.vcxproj -> C:\Users\I752547\OneDrive - SAP SE\Desktop\test1\x64\Debug\test1.exe
